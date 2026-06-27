@@ -7,7 +7,7 @@ setInterval(()=>{
 function add(){
     let task=document.getElementById("task").value;
     if(task){
-        document.getElementById("list").innerHTML+='<li>${task}</li>';
+        document.getElementById("list").innerHTML+=`<li>${task}</li>`;
         document.getElementById("task").value="";
     }
 }
