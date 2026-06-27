@@ -1,0 +1,32 @@
+body{
+    background:rgb(210, 205, 215);
+    display:grid;place-items:center;height: 100vh;margin:0;
+}
+.box{
+    background: plum;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 300px;
+}
+h1{
+    color: darkslateblue;
+    margin: 0 0 10px;
+}
+#time{
+    color: black; margin-bottom: 15px;
+}
+input{
+    width: 70%; padding:8px; border: none; border-radius: 5px;
+}
+button{
+    padding: 8px 12px;
+    background: rgb(179, 108, 144);border: none; border-radius: 5px;cursor: pointer;
+    font-weight: bold;
+}
+ul{
+    list-style: none;padding: 0;text-align: left;
+}
+li{
+    background: lightcoral;margin: 5px 0;padding: 8px;border-radius: 5px;
+}
