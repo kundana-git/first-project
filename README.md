@@ -1,2 +1,2 @@
 # first-project
-My first GitHub repository!
+Basic To Do List!
